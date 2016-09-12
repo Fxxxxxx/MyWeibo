@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>猫爷</key>
+	<string>cat</string>
+	<key>魁拔</key>
+	<string>kuiba</string>
+	<key>黑魔</key>
+	<string>darkfairy</string>
+	<key>blue moon</key>
+	<string>bluemoon</string>
+	<key>暗夜</key>
+	<string>darknight</string>
+	<key>质感灰</key>
+	<string>graypro</string>
+	<key>森林</key>
+	<string>forest</string>
+	<key>happytoy</key>
+	<string>happytoy</string>
+	<key>蜂蜜</key>
+	<string>honey</string>
+	<key>海浪</key>
+	<string>oceanrun</string>
+	<key>粉红</key>
+	<string>pinkpink</string>
+	<key>小猪</key>
+	<string>puppy</string>
+	<key>山谷</key>
+	<string>village</string>
+	<key>鱼眼</key>
+	<string>fisheye</string>
+	<key>夜店</key>
+	<string>nightclub</string>
+</dict>
+</plist>
